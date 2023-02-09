@@ -1,4 +1,5 @@
 To Do list.
 
-1- Manage all the content for introdution.
+1- Manage all the content for introduction.
 2- Designing a show frame for the content.
+3- developnig a page in the website to share the introduction content.
